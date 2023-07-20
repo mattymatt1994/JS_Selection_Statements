@@ -21,8 +21,8 @@ if ((answer = favNumber)) {
 
 // exercise 2 //
 
-birthMonth = "October";
-let birthMonth = window.prompt("What is your birth month?");
+window.prompt("What is your birth month?");
+let birthMonth = "October";
 
 switch (birthMonth) {
   case "October":
